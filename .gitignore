@@ -1,0 +1,44 @@
+# dependencies
+/node_modules
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+!/.vscode/launch.json
+!/.vscode/tasks.json
+.project
+.classpath
+.c9/
+.settings/
+*.sublime-workspace
+
+# misc
+npm-debug.log
+
+# example
+/quick-start
+
+# tests
+/test
+/coverage
+/.nyc_output
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+/server/dist
+
+# misc
+/.sass-cache
+/connect.lock
+/libpeerconnection.log
+npm-debug.log
+yarn-debug.log
+testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db
