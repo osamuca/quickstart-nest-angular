@@ -2,6 +2,10 @@
 
 ---
 
+![Production start](https://image.prntscr.com/image/a5PmeiHtT5C20CVGss6MlA.png)
+
+Production start
+
 ## Description
 
 Starter repository for complete development with TypeScript. Main frameworks:
