@@ -21,7 +21,7 @@ Starter repository for complete development with TypeScript. Main frameworks:
 ## Installation
 
 ```bash
-$ git clone https://repo.git projectName
+$ git clone https://github.com/davidpvilaca/quickstart-nest-angular.git projectName
 $ cd projectName
 $ yarn
 ```
